@@ -1,4 +1,3 @@
 name: Primo DIY Documentation
-rouge: true
 markdown: kramdown
-baseurl: yratof.github.io/prototype-documentation/
+baseurl: https://yratof.github.io/prototype-documentation/
